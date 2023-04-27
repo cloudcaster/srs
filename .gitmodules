@@ -1,0 +1,3 @@
+[submodule "trunk/3rdparty/srt-1-fit"]
+	path = trunk/3rdparty/srt-1-fit
+	url = https://github.com/Haivision/srt
