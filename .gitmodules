@@ -1,3 +1,6 @@
 [submodule "trunk/3rdparty/srt-1-fit"]
 	path = trunk/3rdparty/srt-1-fit
 	url = https://github.com/Haivision/srt
+[submodule "trunk/3rdparty/ffmpeg-4-fit"]
+	path = trunk/3rdparty/ffmpeg-4-fit
+	url = https://github.com/FFmpeg/FFmpeg
